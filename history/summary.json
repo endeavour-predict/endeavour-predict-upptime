@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 717,
-    "timeWeek": 717,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "time": 719,
+    "timeDay": 719,
+    "timeWeek": 719,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://endeavour-predict-apim.azure-api.net",
     "icon": "https://icons.duckduckgo.com/ip3/endeavour-predict-apim.azure-api.net.ico",
     "slug": "endeavour-predict-api-gateway",
-    "status": "down",
-    "uptime": "18.71%",
-    "uptimeDay": "18.71%",
-    "uptimeWeek": "18.71%",
-    "uptimeMonth": "18.71%",
-    "uptimeYear": "18.71%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
+    "time": 414,
+    "timeDay": 414,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 10
     }
   }
 ]
