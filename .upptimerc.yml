@@ -6,6 +6,8 @@ sites:
     url: https://endeavour-predict-apim.developer.azure-api.net
   - name: Endeavour Predict API Gateway
     url: https://endeavour-predict-apim.azure-api.net
+    expectedStatusCodes:
+      - 404
 
 status-website:
   baseUrl: /endeavour-predict-upptime
