@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/endeavour-predict-apim.azure-api.net.ico",
     "slug": "endeavour-predict-api-gateway",
     "status": "up",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 414,
     "timeDay": 414,
     "timeWeek": 414,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {
-      "2023-02-26": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
