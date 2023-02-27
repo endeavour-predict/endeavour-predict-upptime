@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/endeavour-predict-apim.developer.azure-api.net.ico",
     "slug": "endeavour-predict-developer-portal",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "79.60%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "79.60%",
+    "uptimeMonth": "79.60%",
+    "uptimeYear": "79.60%",
     "time": 678,
     "timeDay": 678,
     "timeWeek": 678,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-02-26": 1
+      "2023-02-27": 62,
+      "2023-02-26": 12
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/endeavour-predict-apim.azure-api.net.ico",
     "slug": "endeavour-predict-api-gateway",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "79.75%",
+    "uptimeDay": "79.75%",
+    "uptimeWeek": "79.75%",
+    "uptimeMonth": "79.75%",
+    "uptimeYear": "79.75%",
     "time": 399,
     "timeDay": 399,
     "timeWeek": 399,
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-27": 62,
+      "2023-02-26": 11
     }
   }
 ]
